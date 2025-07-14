@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marksalz/sequelize-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marksalz/sequelize-demo/issues"
+  },
+  "homepage": "https://github.com/Marksalz/sequelize-demo#readme",
+  "dependencies": {
+    "mysql2": "^3.14.2",
+    "sequelize": "^6.37.7"
+  }
+}
